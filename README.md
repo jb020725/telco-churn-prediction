@@ -41,22 +41,25 @@ python -m venv venv
 # macOS/Linux
 source venv/bin/activate
 
-Install dependencies:
+
+
+
+#Install dependencies:
 pip install --upgrade pip
 pip install -r requirements.txt
 
 
-(Optional) For development tools:
+#(Optional) For development tools:
 pip install -r requirements-dev.txt
 
 
-Run the Streamlit app:
+#Run the Streamlit app:
 streamlit run app/app.py
 
 
-Contact
+#Contact
 For questions or support, reach out at: janakbhat34@gmail.com
 
-License
+#License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
