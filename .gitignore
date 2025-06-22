@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python package logs and databases
+*.log
+*.sqlite3
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Streamlit specific
+.streamlit/
+
+# Model files (optional, if you want to keep model binaries out of git)
+# models/*.joblib
+
+# Outputs folder (optional)
+outputs/
+
+# Ignore credentials or config files (if any)
+config/*.json
+config/*.yaml
