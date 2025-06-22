@@ -38,6 +38,8 @@ Create and activate a Python virtual environment:
 python -m venv venv
 # Windows
 .\venv\Scripts\activate
+
+
 # macOS/Linux
 source venv/bin/activate
 
